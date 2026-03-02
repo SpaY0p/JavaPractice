@@ -12,4 +12,4 @@ public class OOPSBannerApparray {
             System.out.println(line);
         }
     }
-}
+}   
